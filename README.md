@@ -1,3 +1,5 @@
 # Всем привет предлогаю вам модельку Монет , чтобы ей правильно воспользоваться советую посмотреть мое видео на ютубе: 
 Скоро Будет добавлено...
-Модель: [Scripts.txt](https://github.com/user-attachments/files/16478948/Scripts.txt)
+
+Модель: [Scripts.txt](https://github.com/user-attachments/files/16478964/Scripts.txt)
+
